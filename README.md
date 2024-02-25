@@ -5,7 +5,7 @@ library(remotes)
 install_local("./EMitool.tar.gz", type = "binary")               
 
 
-## Weighted multi-modality integration (WMI) for disease subtyping
+## Explainable multi-omics integration (EMitool) for disease subtyping
 library(EMitool)    
 #GeneExp is of size n x d_1, where n is the number of patients, d_1 is the number of genes, e.g.   
 #MethyExp is of size n x d_2, where n is the number of patients, d_2 is the number of methylation, e.g.     
