@@ -1,5 +1,5 @@
 ### EMitool install
-#Download EMitool package from github(https://api.github.com/repos/xuyong-scbit/EMitool/tarball/HEAD)        
+#Download EMitool package from github(https://api.github.com/repos/megasci-lab/EMitool/tarball/HEAD)        
 #Install EMitool package    
 library(remotes)       
 install_local("./EMitool.tar.gz", type = "binary")               
